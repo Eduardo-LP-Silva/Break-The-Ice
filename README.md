@@ -1,5 +1,5 @@
 # Break-The-Ice
-A console application based on the mobile game [Break The Ice](https://play.google.com/store/apps/details?id=com.bitmango.breaktheice&hl=en) developed in the Artificial Intelligence class. It serves primarly as a test bed for different search algorithms.
+A console application based on the mobile game [Break The Ice](https://play.google.com/store/apps/details?id=com.bitmango.breaktheice&hl=en). It serves primarly as a test bed for different search algorithms.
 
 ## Overview
 
